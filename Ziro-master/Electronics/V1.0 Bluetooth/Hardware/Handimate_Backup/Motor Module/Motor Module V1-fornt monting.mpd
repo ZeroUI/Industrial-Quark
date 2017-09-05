@@ -1,0 +1,5 @@
+//MPD-File
+#ifndef(pack_D1) #declare global_pack_D1=yes; object {DIODE_SMD_SOD123_5()translate<0,0,0> rotate<0,0.000000,0>rotate<0,-270.000000,0> rotate<0,0,0> translate<8.020000,0.000000,7.070000>translate<0,0.035000,0> }#end		//SOD523 D1 500mA SOD523
+#ifndef(pack_IC4) #declare global_pack_IC4=yes; object {IC_SMD_SOT223("AZ1117CH-3.3TRG1","ST",)translate<0,0,0> rotate<0,0.000000,0>rotate<0,-180.000000,0> rotate<0,0,0> translate<5.000000,0.000000,30.476000>translate<0,0.035000,0> }#end		//SOT223 IC4 AZ1117CH-3.3TRG1 SOT223
+#ifndef(pack_R1) #declare global_pack_R1=yes; object {RES_SMD_CHIP_0603("270",)translate<0,0,0> rotate<0,0.000000,0>rotate<0,-180.000000,0> rotate<0,0,0> translate<18.256822,0.000000,4.843384>translate<0,0.035000,0> }#end		//SMD Resistor 0603 R1 27E R0603
+#ifndef(pack_R2) #declare global_pack_R2=yes; object {RES_SMD_CHIP_0603("270",)translate<0,0,0> rotate<0,0.000000,0>rotate<0,-180.000000,0> rotate<0,0,0> translate<18.214159,0.000000,2.582503>translate<0,0.035000,0> }#end		//SMD Resistor 0603 R2 27E R0603

@@ -1,0 +1,1 @@
+ADXL335 costs $3.2 analog +/-3G accelerometer

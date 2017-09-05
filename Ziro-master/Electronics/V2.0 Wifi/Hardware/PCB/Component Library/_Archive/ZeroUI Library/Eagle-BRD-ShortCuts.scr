@@ -1,0 +1,50 @@
+assign ctrl+0 disp none dimension ref pads
+assig alt+1 Display none Top Bottom Pads Unrouted bName tName Holes Dimension Drills Vias tPlace bPlace tOrigin bOrigin tDocu bDocu milling
+assign ctrl+1 display None Pads tName bName Dimension Holes Drills Vias tOrigin bOrigin tPlace bPlace tCream tStop bCream bStop milling
+assign ctrl+alt+1 display none top pads vias dimension
+assign alt+2 Display none Top Pads Unrouted tName Holes Dimension Drills Vias tPlace tOrigin bOrigin tDocu tKeepout tRestrict milling
+assign ctrl+alt+2 display none Bottom Pads Vias Dimension
+assign alt+3 Display none Bottom Pads Unrouted bName Holes Dimension Drills Vias bPlace tOrigin bOrigin bKeepout bRestrict milling
+assign ctrl+3 display none dimension bPlace bNames
+assign ctrl+alt+3 display none dimension bPlace bNames
+assign alt+4 Display none Drills Milling Holes Pads Dimension Vias
+assign ctrl+alt+4 Display none Holes Drills
+assign alt+5 Display None Dimension Top Pads Vias tCream tStop
+assign ctrl+alt+5 display none Dimension tCream
+assign alt+6 Display None Dimension Bottom Pads Vias bCream bStop
+assign ctrl+alt+6 display none Dimension bCream
+assign ctrl+alt+7 display none Dimension tStop
+assign ctrl+alt+8 display none Dimension bStop
+assign alt+e 'layer tRestrict; change width 1mil; Wire'
+assign shift+alt+e 'layer bRestrict; change width 1mil; Wire'
+assign F1 Move
+assign F2 Group
+assign F3 Route
+assign F4 Ripup
+assign alt+F4 Delete
+assign ctrl+F4 Delete
+assign F5 'Ratsnest; ripup @;'
+assign alt+F5 Ratsnest;
+assign F6 Grid;
+assign F7 Smash
+assign F8 Name
+assign F9 Value
+assign F10 Split
+assign alt+g show gnd
+assign alt+h show 3.3V
+assign alt+i show
+assign ctrl+i properties
+assign ctrl+l change layer
+assign ctrl+alt+l display
+assign alt+m dimension
+assign ctrl+m  'grid on;grid mm; grid 1 1; grid alt mm 0.1;'
+assign shift+ctrl+m  'grid on;grid mm; grid 1 1; grid alt mm 0.01;'
+assign ctrl+n 'grid on;grid mil; grid 50 1; grid alt mil 1;'
+assign alt+q disp -unr
+assign alt+r layer tRestrict;Rect
+assign ctrl+r disp -unr
+assign shift+alt+r 'layer bRestrict; rect'
+assign alt+s split
+assign alt+w change width
+assign shift+alt+w change size
+assign alt+z edit .sch

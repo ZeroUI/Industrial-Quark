@@ -1,0 +1,34 @@
+
+void main (void) {
+string gInSch[], cmd;
+int gCnt, mx, my;
+
+project.schematic(SCH) {
+SCH.parts(PAR) PAR.instances (INS) {
+if (PAR.device.package && ingroup(INS))
+gInSch[gCnt++] = PAR.name;
+}
+}
+
+if (gCnt == 0) {
+dlgMessageBox("Nothing grouped in schematic!");
+exit(1);
+}
+
+project.board (B) {
+clrgroup(B);
+
+B.elements (E) {
+if (lookup(gInSch, E.name, 0) != "") {
+mx += E.x;
+my += E.y;
+setgroup(E);
+}
+}
+
+sprintf(cmd, "move (>%.1fmic %.1fmic)", u2mic(mx/gCnt),
+u2mic(my/gCnt));
+if (project.schematic) cmd = "edit .brd;" + cmd;
+exit(cmd);
+}
+}

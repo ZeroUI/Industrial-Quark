@@ -1,0 +1,91 @@
+Electronics/V2.0 Wifi/Software/3 NodeMCU/glove/I2C_GY80/init_MPU6050_temp.lua
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/idf/Glove-WiFi-M0-v0.2_pcb_opt.emn
+*.emp
+*.lck
+*.gpi
+*.ger
+*.ger
+*.dri
+*.xln
+*.xln
+*.b#1
+*.b#2
+*.b#3
+*.b#4
+*.b#5
+*.b#6
+*.b#7
+*.b#8
+*.b#9
+*.s#1
+*.s#2
+*.s#3
+*.s#4
+*.s#5
+*.s#6
+*.s#7
+*.s#8
+*.s#9
+*.s##
+*.b##
+Electronics/V2.0 Wifi/Software/3 NodeMCU/glove/I2C_GY80/init.lua
+*.job
+Electronics/V2.0 Wifi/Hardware/PCB/Module/Bottom PCB Dimensioning.JPG
+Electronics/V2.0 Wifi/Software/2 NodeMCU Code/NodeMCU Code/glove/I2C_GY80/init_MPU6050_temp.lua
+Electronics/V2.0 Wifi/Hardware/PCB/Module/Module-WiFi-M0-v0.2-Board-1.bot.stencil.tap
+Electronics/V2.0 Wifi/Hardware/PCB/Module/OSHO Park Gerber/Board-2/Module-WiFi-M0-v0.2-Board-2.zip
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.2_pcb_opt.pdf
+*.tap
+*.epf
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/eagle.epf
+*.epf
+Electronics/V2.0 Wifi/Software/1 Arduino/Glove/Documentation/~$Glove- Software Related Calcuations.xlsx
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.4.log
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Gerber v0.4- NODPcB/Glove-WiFi-M0-v0.4_centroid.xlsx
+*.4-Partlist
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.4_centroid.csv
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.4.pdf
+Electronics/V2.0 Wifi/Hardware/PCB/Module/eagle.epf
+*.epf
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/eagle.epf
+*.epf
+*.PcbDoc
+Electronics/V2.0 Wifi/Hardware/PCB/Charging PCB/Imported Charging v0.1.PrjPcb/Charging v0.1.PrjPcb
+*.PrjPcbStructure
+Electronics/V2.0 Wifi/Hardware/PCB/Charging PCB/Imported Charging v0.1.PrjPcb/Charging v0.1.SchDoc
+*.LOG
+Electronics/V2.0 Wifi/Software/1 Arduino/Glove/Test Codes/MPU_Fusion/MPU_Fusion_Code/MPU_Fusion_Code.ino8529858208174121474.tmp
+Electronics/V2.0 Wifi/Hardware/PCB/Charging PCB/Charging v0.1.mnb
+Electronics/V2.0 Wifi/Hardware/PCB/Charging PCB/PartList
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.4.dsn
+Electronics/V2.0 Wifi/Hardware/PCB/Charging PCB/Charging v0.1 centroid.csv
+Electronics/V2.0 Wifi/Hardware/PCB/Charging PCB/Charging v0.1 BOM.xlsx
+*.sublime-workspace
+Electronics/V2.0 Wifi/Software/1 Arduino/Glove/Test Codes/One to Four Control/Broadcast_SoftAP_Send_IMU/esp8266_lib.sublime-project
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.4-vert-usb.sch
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.4-vert-usb.brd
+Electronics/V2.0 Wifi/Hardware/PCB/Glove/Get_DRU_from_Glove-WiFi-M0-v0.4.scr
+Electronics/V2.0 Wifi/Documentation/~$Websocket Packet Exchange Format.xlsx
+*.l#2
+*.l#3
+*.l#6
+*.l#9
+*.l#7
+*.l#5
+*.l#4
+*.l#8
+*.l#1
+*.l#1
+*.l#2
+*.l#1
+*.l#1
+*.l#7
+*.l#5
+Electronics/V2.0 Wifi/Hardware/PCB/Component Library/Default/con-lsta.l#5
+*.l#6
+*.l#1
+*.l#7
+*.l#8
+*.ino
+*.sch
+*.ino

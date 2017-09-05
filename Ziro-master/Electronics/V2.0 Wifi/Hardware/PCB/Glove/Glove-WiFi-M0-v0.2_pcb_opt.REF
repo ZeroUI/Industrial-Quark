@@ -1,0 +1,17 @@
+**********************************************************************
+* Exports the board to HyperLynx Signal-Integrity Transfer Format (.HYP)
+* Version 2.00 9/11/97 -- 4.16 17/12/2012
+*
+* EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+*
+* HyperLynx Board exported from:
+* D:/ZeroUI GitHub/Ziro/Electronics/V2.0 Wifi/Hardware/PCB/Glove/Glove-WiFi-M0-v0.2_pcb_opt.brd
+* At 6/3/2016 3:14 PM
+*
+* Schematic is loaded.
+*
+*
+**********************************************************************
+* Auto Mapped Reference File for ICs and Us
+*
+IC4, 74HC.PML, 74HC4051

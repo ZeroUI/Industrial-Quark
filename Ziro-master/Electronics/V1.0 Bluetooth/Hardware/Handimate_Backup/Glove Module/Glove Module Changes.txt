@@ -1,0 +1,13 @@
+6/1/2015
+Changes:
+1. Accelerometer: 
+-CLKIN, FSYNC connected to ground
+-VLOGIC connected to Vcc in with a 0.1uF or 10nF capacitor connected to ground
+-MPU6050 QFn package changed to show cental heatsink
+
+2. Battery Management
+Battery charge indicator connected
+
+3. Slide Switch package updated
+
+4. Order of sensors changed. Thumb-1,2; Index-1,2; Middle-1,2

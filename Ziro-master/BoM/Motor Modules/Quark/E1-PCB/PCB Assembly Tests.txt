@@ -1,0 +1,3 @@
+Automated Optical Inspection
+Firmware Download
+In-Circuit Test (for NPI only)

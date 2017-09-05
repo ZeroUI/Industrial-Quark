@@ -1,0 +1,96 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl holes
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.407843 0.266667
+Ks 0.330000 0.330000 0.330000
+
+newmtl element
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.843137 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl mat_board
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.407843 0.266667
+Ks 0.330000 0.330000 0.330000
+
+newmtl eagleUp_Glove_Module_top_board2
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.505882 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Glove_Module_top_board2.png
+
+newmtl eagleUp_Glove_Module_bottom_board2
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.435294 0.266667
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Glove_Module_bottom_board2.png
+
+newmtl eagleUp_Glove_Module_bottom_board3
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.466667 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Glove_Module_bottom_board3.png
+
+newmtl eagleUp_Glove_Module_top_board3
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.478431 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Glove_Module_top_board3.png
+
+newmtl eagleUp_Motor_Module_top_board
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.474510 0.345098
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_top_board.png
+
+newmtl eagleUp_Motor_Module_bottom_board
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.458824 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_bottom_board.png
+
+newmtl element7
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.330000 0.330000 0.330000
+
+newmtl eagleUp_Motor_Module_V1_side_mounting_bottom_board
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.431373 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_V1_side_mounting_bottom_board.png
+
+newmtl eagleUp_Motor_Module_V1_side_mounting_top_board
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.482353 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_V1_side_mounting_top_board.png
+
+newmtl eagleUp_Motor_Module_V1_side_mounting_bottom_board1
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.435294 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_V1_side_mounting_bottom_board1.png
+
+newmtl eagleUp_Motor_Module_V1_side_mounting_top_board1
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.509804 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_V1_side_mounting_top_board1.png
+
+newmtl eagleUp_Motor_Module_V1_side_mounting_bottom_board2
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.466667 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_V1_side_mounting_bottom_board2.png
+
+newmtl eagleUp_Motor_Module_V1_side_mounting_top_board2
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.486275 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd Handimate Electronics/eagleUp_Motor_Module_V1_side_mounting_top_board2.png
+

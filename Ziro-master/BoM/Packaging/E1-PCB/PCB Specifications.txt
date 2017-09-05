@@ -1,0 +1,14 @@
+/* PCB Fabrication Notes for all boards unless specified*/
+1. Layer Count: 2
+2. Material Type: FR4 with a compatible Tg rating for RoHS assembly
+3. Finished Copper Weight: 1oz for Glove, 1.5oz for Motor Modules
+4. Surface Finish: Lead-Free HASL
+5. Overall Thickness: 0.031" for all boards
+6. SolderMask Color: White(if cost comparable to Standard Green) else Standard Green
+7. Legend/Silkscreen: 
+	-Color: Black(if SolderMask is White) else Standard White.
+	-Ink Type: Permanent, organic and non-conductive ink. 
+	-Via holes plugged with solder mask need not be plugged by silkscreen
+	-There shall be no silkscreen on any solderable component pad.
+8. PCB Dimensions: See respective gerber files
+9. The manufacturer's identifation and date code letter to be rendered in etch on bottom side of boards. 

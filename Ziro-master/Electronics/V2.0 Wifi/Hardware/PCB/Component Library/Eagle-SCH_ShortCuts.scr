@@ -1,0 +1,25 @@
+assign Shift+ctrl+A ADD
+assign Shift+ctrl+c COPY
+assign alt+D show
+assign ctrl+D delete
+assign ctrl+E errors
+assign shift+ctrl+e erc
+assign ctrl+f run find.ulp
+assign F1 move
+assign f2 group
+assign f3 net
+assign f4 delete
+assign f5 add
+assign f6 copy
+assign f7 label xref
+assign ctrl+f7 smash
+assign f8 smash
+assign f9 value
+assign f10 split
+assign ctrl+g group
+assign alt+i show
+assign ctrl+i info
+assign shift+ctrl+i invoke
+assign shift+ctrl+w change size
+assign ctrl+w wire
+assign alt+z board
